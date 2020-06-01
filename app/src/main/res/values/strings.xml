@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BizlersTest</string>
+    <string name="VehicleNumber">Vehicle Number"</string>
+    <string name="VehicleMake">Vehicle Make"</string>
+    <string name="VehicleModel">Vehicle Model"</string>
+    <string name="VehicleVariant">Vehicle Variant"</string>
+    <string name="VehicleFuelType">Vehicle Fuel Type"</string>
+    <string name="VehiclePhoto">Add Photo</string>
+    <string name="submit">Submit</string>
+</resources>
